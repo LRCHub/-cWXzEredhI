@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Affection",
+  "base_artist": "Another Infinity",
+  "createdAt": "2026-01-05T11:50:58.629531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pixel Affection",
+      "artist": "yeule",
+      "has_synced": true,
+      "path": "select/01_Pixel_Affection_yeule.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Public Displays of Affection",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/02_Public_Displays_of_Affection_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love and Affection",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/03_Love_and_Affection_Clannad.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Affection",
+      "artist": "Boys Noize feat. ABRA",
+      "has_synced": true,
+      "path": "select/04_Affection_Boys_Noize_feat._ABRA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Affection (feat. Abra)",
+      "artist": "Boys Noize",
+      "has_synced": true,
+      "path": "select/05_Affection_(feat._Abra)_Boys_Noize.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love and Affection",
+      "artist": "Sheena Easton",
+      "has_synced": false,
+      "path": "select/06_Love_and_Affection_Sheena_Easton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Street Affection",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/07_Street_Affection_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Transfer Affection",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/08_Transfer_Affection_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Transfer Affection",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/09_Transfer_Affection_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Affection Training",
+      "artist": "Bratmobile",
+      "has_synced": true,
+      "path": "select/10_Affection_Training_Bratmobile.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "True Affection",
+      "artist": "The Blow",
+      "has_synced": false,
+      "path": "select/11_True_Affection_The_Blow.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Affection",
+      "artist": "Crystal Castles",
+      "has_synced": true,
+      "path": "select/12_Affection_Crystal_Castles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Minimal Affection",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/13_Minimal_Affection_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love and Affection",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/14_Love_and_Affection_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love and Affection (Remastered 2017)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/15_Love_and_Affection_(Remastered_2017)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love and Affection (Live)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/16_Love_and_Affection_(Live)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love And Affection(Live)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/17_Love_And_Affection(Live)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Losing Your Affection",
+      "artist": "Future Bible Heroes",
+      "has_synced": false,
+      "path": "select/18_Losing_Your_Affection_Future_Bible_Heroes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Affection",
+      "artist": "Mayumi Morinaga",
+      "has_synced": false,
+      "path": "select/pl_01_Affection_Mayumi_Morinaga.txt"
+    }
+  ]
+}
